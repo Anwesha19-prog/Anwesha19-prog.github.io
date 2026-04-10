@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About Me"
+permalink: /Home/
+#title: "About Me"
 ---
 
 # From Tumors to Transcriptomes
