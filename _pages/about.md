@@ -1,5 +1,5 @@
 ---
-permalink: /Home/
+permalink: /home/
 title: "About Me"
 ---
 
