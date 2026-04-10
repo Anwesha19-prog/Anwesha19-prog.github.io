@@ -38,17 +38,6 @@ Each project is a step in learning how to do computational biology *properly*—
 
 ---
 
-## Explore
-
-**Projects** → See what I've been working on  
-**CV** → [Download PDF](/assets/cv/CV.pdf)  
-**Scholar** → [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
-
----
-
 ## Get in touch
 
-If you're working on cancer genomics, teaching bioinformatics, or just want to talk about data and biology—reach out.
-
-**Email:** you@domain.com  
-**LinkedIn:** [your link]
+If you're working on cancer genomics, teaching bioinformatics, or just want to talk about data and biology—reach out via Email or LinkedIn.
