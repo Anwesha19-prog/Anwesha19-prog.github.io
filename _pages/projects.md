@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 permalink: /project/
-layout: Single
+#layout: Single
 author_profile: true
 ---
 
