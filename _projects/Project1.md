@@ -2,6 +2,7 @@
 title: "Immune Risk Model"
 excerpt: "A survival prediction model combining clinical + multi-omics signals."
 date: 2026-04-10
+---
 
 # Shows a big banner image at the top (hero)
 header:
