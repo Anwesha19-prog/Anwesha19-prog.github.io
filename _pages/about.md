@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
 # From Tumors to Transcriptomes
@@ -13,15 +13,15 @@ Now I spend my time wrangling genomic datasets, building reproducible pipelines,
 
 ## How I got here
 
-It started with **seaweed and prostate cancer** during my Master's at UCD Dublin—investigating chemopreventive properties across cellular assays and omics data. That's when I realized: *the most interesting questions in cancer live in the data.*
+It started with seaweed and prostate cancer during my Master's at UCD Dublin—investigating chemopreventive properties across cellular assays and omics data. That's when I realized: *the most interesting questions in cancer live in the data.*
 
-My **PhD (also at UCD)** took me deeper into the intersection of biology and computation. I investigated uptake mechanisms of novel surgical dyes in colorectal cancer patients, working across:
+My PhD (also at UCD) took me deeper into the intersection of biology and computation. I investigated uptake mechanisms of novel surgical dyes in colorectal cancer patients, working across:
 - Medical imaging and image segmentation
 - Omics data integration
 - Confocal and fluorescence microscopy
-- **Machine learning** (collaborating with IBM) to classify tumor vs benign tissue for precision surgery
+- Machine learning (collaborating with IBM) to classify tumor vs benign tissue for precision surgery
 
-After my PhD, I joined a **synthetic biology group at TU Darmstadt** as a postdoctoral researcher, working on organ-on-chip technology. I built image analysis pipelines to classify vasculature vs tumor cells—helping the team understand the tumor microenvironment and develop better *in vitro* cancer models.
+After my PhD, I joined a synthetic biology group at TU Darmstadt as a postdoctoral researcher, working on organ-on-chip technology. I built image analysis pipelines to classify vasculature vs tumor cells—helping the team understand the tumor microenvironment and develop better *in vitro* cancer models.
 
 Each project pulled me closer to computational biology. Now I'm all in.
 
