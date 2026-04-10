@@ -1,6 +1,7 @@
 ---
 permalink: /home/
-title: "About Me"
+title: "Home"
+author_profile: true
 ---
 
 ## From Tumors to Transcriptomes
