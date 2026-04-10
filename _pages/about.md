@@ -3,7 +3,7 @@ permalink: /Home/
 title: "About Me"
 ---
 
-# From Tumors to Transcriptomes
+## From Tumors to Transcriptomes
 
 I'm an oncologist who got curious about the *data behind the disease*—and never looked back.
 
