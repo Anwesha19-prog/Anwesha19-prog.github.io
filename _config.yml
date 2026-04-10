@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Anwesha"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Oncologist and computational biologist bridging clinical oncology with data-driven discovery. Aspiring bioinformatician building reproducible pipelines for genomics, systems biology, and translational research."
+  bio    : "Oncologist and computational biologist bridging clinical oncology with data-driven discovery."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
