@@ -1,6 +1,8 @@
 ---
+layout: collection
 title: "Projects"
-permalink: /project/
-#layout: Single
+permalink: /projects/
+collection: projects
+entries_layout: grid
 author_profile: true
 ---
