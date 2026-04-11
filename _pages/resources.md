@@ -4,6 +4,8 @@ title: "Resources"
 permalink: /resources/
 author_profile: true
 ---
+## Learning Bioinformatics
+- [Bioinformatics Roadmap](https://divingintogeneticsandgenomics.com/post/bioinfo-roadmap/)
 
 ## Data Sources
 - [UCSC Xena](https://xena.ucsc.edu/)
