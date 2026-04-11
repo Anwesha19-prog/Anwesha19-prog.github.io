@@ -1,45 +1,48 @@
 ---
-title: "About me"
-permalink: /
 layout: single
+title: "Portfolio"
+permalink: /
 author_profile: true
 ---
 
-## From Tumors to Transcriptomes
+## Anwesha Sarkar, Ph.D.
+**Computational biology + translational oncology** — building reproducible analyses and predictive models from clinical and multi-omics data.
 
-I'm an oncologist who got curious about the *data behind the disease*—and never looked back.
-
-Now I spend my time wrangling genomic datasets, building reproducible pipelines, and asking questions that sit somewhere between the clinic and the command line.
-
----
-
-## How I got here
-
-It started with seaweed and prostate cancer during my Master's at UCD Dublin—investigating chemopreventive properties across cellular assays and omics data. That's when I realized: *the most interesting questions in cancer live in the data.*
-
-My PhD (also at UCD) took me deeper into the intersection of biology and computation. I investigated uptake mechanisms of novel surgical dyes in colorectal cancer patients, working across:
-- Medical imaging and image segmentation
-- Omics data integration
-- Confocal and fluorescence microscopy
-- Machine learning (collaborating with IBM) to classify tumor vs benign tissue for precision surgery
-
-After my PhD, I joined a synthetic biology group at TU Darmstadt as a postdoctoral researcher, working on organ-on-chip technology. I built image analysis pipelines to classify vasculature vs tumor cells—helping the team understand the tumor microenvironment and develop better *in vitro* cancer models.
-
-Each project pulled me closer to computational biology. Now I'm all in.
+[View Projects]({{ site.baseurl }}/projects/){: .btn .btn--primary }
+[Download CV]({{ site.baseurl }}/assets/cv/CV.pdf){: .btn .btn--info }
+[Contact]({{ site.baseurl }}/about/){: .btn .btn--inverse }
 
 ---
 
-## What I'm building now
-
-- **NGS pipelines** that are clean, reproducible, and well-documented
-- **Single-cell analyses** to dissect tumor heterogeneity
-- **Multi-omics integrations** to connect the dots across data types
-- **Visualizations** that make complex biology interpretable
-
-Each project is a step in learning how to do computational biology *properly*—not just get an answer, but understand the method, question the assumptions, and make it reproducible.
+## What I do
+- **Modeling:** survival / risk prediction, evaluation, interpretability
+- **Data & pipelines:** omics preprocessing, QC, reproducible workflows
+- **Translation:** turning research questions into analyses that support decisions
 
 ---
 
-## Get in touch
+## Featured projects
+*(Pick 2–3 of your strongest projects and give each one a 1–2 line outcome-focused description.)*
 
-If you're working on cancer genomics, teaching bioinformatics, or just want to talk about data and biology—reach out via Email or LinkedIn.
+### Project A — Short title
+One sentence on the problem + what you delivered (model/pipeline/tool) + a result or benefit.  
+[Read more →]({{ site.baseurl }}/projects/project-a/)
+
+### Project B — Short title
+One sentence on the problem + approach + outcome.  
+[Read more →]({{ site.baseurl }}/projects/project-b/)
+
+### Project C — Short title (optional)
+One sentence + outcome.  
+[Read more →]({{ site.baseurl }}/projects/project-c/)
+
+---
+
+## Selected publication
+**Paper title (Year)** — 1 sentence: key finding and why it matters.  
+[Link to paper](https://doi.org/...) · [All publications]({{ site.baseurl }}/publications/)
+
+---
+
+## Currently
+Open to **computational biology / bioinformatics scientist** roles (industry) and **postdoc** opportunities in translational comp bio.
