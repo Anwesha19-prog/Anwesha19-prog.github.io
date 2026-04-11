@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-## Anwesha Sarkar, Ph.D.
+## Introduction
 Computational biology + translational oncology — building reproducible analyses and predictive models from clinical and multi-omics data.
 
 [View Projects]({{ site.baseurl }}/projects/){: .btn .btn--primary }
