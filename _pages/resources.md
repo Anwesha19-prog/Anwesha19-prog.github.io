@@ -7,3 +7,5 @@ author_profile: true
 
 ## Data Sources
 - [UCSC Xena](https://xena.ucsc.edu/)
+- [GEO Datasets](https://www.ncbi.nlm.nih.gov/gds)
+- [Kaggle](https://www.kaggle.com/datasets)
