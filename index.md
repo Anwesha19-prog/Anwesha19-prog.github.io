@@ -40,7 +40,8 @@ One sentence + outcome.
 
 ## Selected publication
 Digital dynamic discrimination of primary colorectal cancer using systemic indocyanine green with near-infrared endoscopy (2021):
-- Using real-time ICG near‑infrared endoscopy, the study shows that early fluorescence time‑curves (not single snapshots) reliably separate colorectal tumors from normal tissue and can even differentiate benign from malignant lesions, enabling a path toward software-assisted, intraoperative diagnosis. - [Link](https://doi.org/10.1038/s41598-021-90089-7)
+- Using real-time ICG near‑infrared endoscopy, the study shows that early fluorescence time‑curves (not single snapshots) reliably separate colorectal tumors from normal tissue and can even differentiate benign from malignant lesions, enabling a path toward software-assisted, intraoperative diagnosis. 
+[Link](https://doi.org/10.1038/s41598-021-90089-7)
 ![Teaser]({{ site.baseurl }}/assets/images/2021_Publication_figure.png)
 *Figure 1: Screenshot of Fluorescence Tracker App (FTA, MATLAB®) showing post-hoc automated video-based classification of tumour (blue cluster) versus control tissue (orange cluster)*
 
