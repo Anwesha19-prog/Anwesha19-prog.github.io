@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Anwesha Sarkar, Ph.D.
-**Computational biology + translational oncology** — building reproducible analyses and predictive models from clinical and multi-omics data.
+Computational biology + translational oncology — building reproducible analyses and predictive models from clinical and multi-omics data.
 
 [View Projects]({{ site.baseurl }}/projects/){: .btn .btn--primary }
 [Download CV]({{ site.baseurl }}/assets/cv/CV.pdf){: .btn .btn--info }
@@ -16,6 +16,7 @@ author_profile: true
 ## What I do
 - **Modeling:** survival / risk prediction, evaluation, interpretability
 - **Data & pipelines:** omics preprocessing, QC, reproducible workflows
+- **ML for biology:** prediction, validation, and interpretability (clear metrics, no leakage)
 - **Translation:** turning research questions into analyses that support decisions
 
 ---
