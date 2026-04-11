@@ -3,3 +3,9 @@ main:
     url: /home/
   - title: "Projects"
     url: /projects/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV Highlights"
+    url: /mycv/
+  - title: "Resources"
+    url: /resources/
