@@ -43,8 +43,7 @@ Digital dynamic discrimination of primary colorectal cancer using systemic indoc
 - Using real-time ICG near‑infrared endoscopy, the study shows that early fluorescence time‑curves (not single snapshots) reliably separate colorectal tumors from normal tissue and can even differentiate benign from malignant lesions, enabling a path toward software-assisted, intraoperative diagnosis.
 ![Teaser]({{ site.baseurl }}/assets/images/2021_Publication_figure.png)
 *Figure 1: Screenshot of Fluorescence Tracker App (FTA, MATLAB®) showing post-hoc automated video-based classification of tumour (blue cluster) versus control tissue (orange cluster)*
-- [Link to paper](https://doi.org/10.1038/s41598-021-90089-7)
-&nbsp;
+- [Link to paper](https://doi.org/10.1038/s41598-021-90089-7) <br>
 [All publications]({{ site.baseurl }}/publications/){: .btn .btn--primary }
 
 ---
