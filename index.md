@@ -10,7 +10,6 @@ author_profile: true
 
 [View Projects]({{ site.baseurl }}/projects/){: .btn .btn--primary }
 [Download CV]({{ site.baseurl }}/assets/cv/CV.pdf){: .btn .btn--info }
-[Contact]({{ site.baseurl }}/about/){: .btn .btn--inverse }
 
 ---
 
