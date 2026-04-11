@@ -5,6 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 ## Learning Bioinformatics
+- [What is Bioinformatics](https://portlandpress.com/biochemist/article/45/2/11/232831/A-beginner-s-guide-to-bioinformatics)
 - [Bioinformatics Roadmap](https://divingintogeneticsandgenomics.com/post/bioinfo-roadmap/)
 
 ## Data Sources
