@@ -44,6 +44,7 @@ Digital dynamic discrimination of primary colorectal cancer using systemic indoc
 ![Teaser]({{ site.baseurl }}/assets/images/2021_Publication_figure.png)
 *Figure 1: Screenshot of Fluorescence Tracker App (FTA, MATLAB®) showing post-hoc automated video-based classification of tumour (blue cluster) versus control tissue (orange cluster)*
 - [Link to paper](https://doi.org/10.1038/s41598-021-90089-7)
+&nbsp;
 [All publications]({{ site.baseurl }}/publications/){: .btn .btn--primary }
 
 ---
