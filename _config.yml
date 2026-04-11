@@ -64,7 +64,7 @@ author:
   bio    : "Oncologist and computational biologist bridging clinical oncology with data-driven discovery."
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:anwesha19sarkar@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
