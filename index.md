@@ -39,8 +39,8 @@ One sentence + outcome.
 ---
 
 ## Selected publication
-**Paper title (Year)** — 1 sentence: key finding and why it matters.  
-[Link to paper](https://doi.org/...) · [All publications]({{ site.baseurl }}/publications/)
+Digital dynamic discrimination of primary colorectal cancer using systemic indocyanine green with near-infrared endoscopy (2021) — Using real-time ICG near‑infrared endoscopy, the study shows that early fluorescence time‑curves (not single snapshots) reliably separate colorectal tumors from normal tissue and can even differentiate benign from malignant lesions, enabling a path toward software-assisted, intraoperative diagnosis.  
+[Link to paper](https://doi.org/10.1038/s41598-021-90089-7) · [All publications]({{ site.baseurl }}/publications/)
 
 ---
 
