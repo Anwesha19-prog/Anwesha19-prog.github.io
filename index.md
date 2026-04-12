@@ -22,19 +22,10 @@ Computational biology + translational oncology — building reproducible analyse
 ---
 
 ## Featured projects
-*(Pick 2–3 of your strongest projects and give each one a 1–2 line outcome-focused description.)*
 
-### Project A — Short title
-One sentence on the problem + what you delivered (model/pipeline/tool) + a result or benefit.  
-[Read more →]({{ site.baseurl }}/projects/project-a/)
-
-### Project B — Short title
-One sentence on the problem + approach + outcome.  
-[Read more →]({{ site.baseurl }}/projects/project-b/)
-
-### Project C — Short title (optional)
-One sentence + outcome.  
-[Read more →]({{ site.baseurl }}/projects/project-c/)
+### Project A — Multi omics integration (TCGA-BRCA)
+This project integrates The Cancer Genome Atlas (TCGA) Breast Cancer (BRCA) multi-omics profiles—gene expression (RNA-seq), DNA methylation (450K), and copy-number variation (CNV) — to discover unsupervised patient groups and interpret them biologically. 
+[Read more →]({{ site.baseurl }}/projects/project3/)
 
 ---
 
