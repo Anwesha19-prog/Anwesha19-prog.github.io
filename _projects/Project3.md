@@ -27,6 +27,12 @@ toc_sticky: true
 This repository contains a single, end-to-end Python notebook that integrates The Cancer Genome Atlas (TCGA) Breast Cancer (BRCA) multi-omics profiles—gene expression (RNA-seq), DNA methylation (450K), and copy-number variation (CNV) — to discover unsupervised patient groups and interpret them biologically.
 
 ## Why this project
+Projects goals:
+- Build a clean, reproducible multi-omics integration workflow in Python
+- Identify molecularly distinct tumor groups using unsupervised learning
+- Provide biologically grounded interpretation using canonical BRCA markers, CNV driver loci, and pathway enrichment
+- Demonstrate practical skills in data harmonization, preprocessing, integration, clustering, and interpretation
+
 
 ## Highlights
 
