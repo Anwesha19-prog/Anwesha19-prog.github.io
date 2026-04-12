@@ -41,4 +41,4 @@ Digital dynamic discrimination of primary colorectal cancer using systemic indoc
 ---
 
 ## Currently
-Open to **computational biology / bioinformatics scientist** roles (industry) and **postdoc** opportunities in translational comp bio.
+Open to computational biology / bioinformatics scientist roles (industry) and postdoc opportunities in translational computational biology.
