@@ -24,7 +24,7 @@ Computational biology + translational oncology — building reproducible analyse
 ## Featured projects
 
 ### Project A — Multi omics integration (TCGA-BRCA)
-This project integrates The Cancer Genome Atlas (TCGA) Breast Cancer (BRCA) multi-omics profiles—gene expression (RNA-seq), DNA methylation (450K), and copy-number variation (CNV) — to discover unsupervised patient groups and interpret them biologically. 
+This project integrates The Cancer Genome Atlas (TCGA) Breast Cancer (BRCA) multi-omics profiles—gene expression (RNA-seq), DNA methylation (450K), and copy-number variation (CNV)
 [Read more →]({{ site.baseurl }}/projects/project3/)
 
 ---
