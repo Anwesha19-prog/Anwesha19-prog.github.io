@@ -48,11 +48,11 @@ This project asks which human genes change expression in SARS‑CoV‑2 positive
   - Heatmap / clustermap of top DE genes (pattern-level interpretation)
 
 ## Result
-| Figure |
+|Figure|
 |---|
-| ![Volcano Plot]({{ site.baseurl }}/assets/images/Projects/project2-volcano.png)<br><small>*Figure 1: Volcano plot Tumor vs Normal*</small> |
-| ![PCA Plot]({{ site.baseurl }}/assets/images/Projects/project2-pca.png)<br><small>*Figure 2: PCA plot Tumor vs Normal*</small> |
-| ![Top Genes]({{ site.baseurl }}/assets/images/Projects/project2-topgenes.png)<br><small>*Figure 3: Top 20 genes based on p-value*</small> |
+|![Volcano Plot]({{ site.baseurl }}/assets/images/Projects/project2-volcano.png)<br><small>*Figure 1: Volcano plot Tumor vs Normal*</small>|
+|![PCA Plot]({{ site.baseurl }}/assets/images/Projects/project2-pca.png)<br><small>*Figure 2: PCA plot Tumor vs Normal*</small>|
+|![Top Genes]({{ site.baseurl }}/assets/images/Projects/project2-topgenes.png)<br><small>*Figure 3: Top 20 genes based on p-value*</small>|
 
 ## How to run
 git clone https://github.com/Anwesha19-prog/RNA-seq-Differential-Expression <br>
