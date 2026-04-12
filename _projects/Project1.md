@@ -43,9 +43,10 @@ This project demonstrates a reproducible end-to-end gene expression analysis wor
 
 ## Results
 
-| Figure 1 | Figure 2 |
-|---|---|
-| ![Volcano Plot]({{ site.baseurl }}/assets/images/Projects/project1-volcano.png)<br><small>*Figure 1: Volcano plot Tumor vs Normal*</small> | ![Top Genes]({{ site.baseurl }}/assets/images/Projects/project1-topgenes.png)<br><small>*Figure 2: Top 20 genes based on p-value*</small> |
+| Figure |
+|---|
+| ![Volcano Plot]({{ site.baseurl }}/assets/images/Projects/project1-volcano.png)<br><small>*Figure 1: Volcano plot Tumor vs Normal*</small> |
+| ![Top Genes]({{ site.baseurl }}/assets/images/Projects/project1-topgenes.png)<br><small>*Figure 2: Top 20 genes based on p-value*</small> |
 
 
 ## How to run
