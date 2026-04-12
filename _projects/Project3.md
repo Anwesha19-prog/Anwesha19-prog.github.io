@@ -7,9 +7,9 @@ date: 2026-04-11
 
 # Shows a big banner image at the top (hero)
 header:
-  overlay_image: /assets/images/Projects/project3-marker_expression_by_cluster.png
+  overlay_image: /assets/images/hero-photo.jpg
   overlay_filter: 0.35
-  caption: "Figure: PCA for sample clustering."
+  caption: "[Src](https://www.nium.bio/bioinformatics-unlocking-the-secrets-of-gut-health/)"
 
 # Shows a small thumbnail on the /projects/ grid page
 teaser: /assets/images/Projects/project3-marker_expression_by_cluster.png
