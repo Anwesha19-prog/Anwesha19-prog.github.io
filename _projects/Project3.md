@@ -7,12 +7,12 @@ date: 2026-04-11
 
 # Shows a big banner image at the top (hero)
 header:
-  overlay_image: /assets/images/Projects/hero-project3.png
+  overlay_image: /assets/images/Projects/project3-marker_expression_by_cluster.png
   overlay_filter: 0.35
   caption: "Figure: PCA for sample clustering."
 
 # Shows a small thumbnail on the /projects/ grid page
-teaser: /assets/images/Projects/hero-project3.png
+teaser: /assets/images/Projects/project3-marker_expression_by_cluster.png
 
 # Optional: nice wide layout for projects with images
 classes: wide
@@ -44,9 +44,16 @@ This repository contains a single, end-to-end Python notebook that integrates Th
 
 ## Result
 
+|Figure|
+|---|
+|![CNV key genes]({{ site.baseurl }}/assets/images/Projects/project3-cnv-key-genes.png)<br><small>*Figure 1: CNV of key genes by cluster*</small>|
+|![Embedding clusters]({{ site.baseurl }}/assets/images/Projects/project3-embedding_clusters.png)<br><small>*Figure 2: Integrated multi-omics embedding (colored by cluster)*</small>|
+|![Marker expression]({{ site.baseurl }}/assets/images/Projects/project3-marker_expression_by_cluster.png)<br><small>*Figure 3: Marker gene expression by multi-omics cluster*</small>|
+|![Survival rate]({{ site.baseurl }}/assets/images/Projects/project3-survival.png)<br><small>*Figure 4: Overall survival by multi-omics cluster (TCGA BRCA)*</small>|
+
 ## How to run
 
 git clone https://github.com/Anwesha19-prog/TCGA-BRCA-Multi-Omics-Intergration <br>
 cd TCGA-BRCA-Multi-Omics-Intergration <br>
 python -m requirements.txt <br>
-jupyter notebook Project-2_clean.ipynb
+jupyter notebook Project-3.ipynb
