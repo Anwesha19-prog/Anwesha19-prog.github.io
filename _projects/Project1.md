@@ -7,7 +7,7 @@ date: 2026-04-10
 header:
   overlay_image: /assets/images/Projects/project1-hero.png
   overlay_filter: 0.35
-  caption: "Figure: PCA for sample clustering."
+  caption: "Figure: Data analysis of GEO GSE42568 dataset"
 
 # Shows a small thumbnail on the /projects/ grid page
 teaser: /assets/images/Projects/project1-hero.png
@@ -46,7 +46,8 @@ This project demonstrates a reproducible end-to-end gene expression analysis wor
 | Figure |
 |---|
 | ![Volcano Plot]({{ site.baseurl }}/assets/images/Projects/project1-volcano.png)<br><small>*Figure 1: Volcano plot Tumor vs Normal*</small> |
-| ![Top Genes]({{ site.baseurl }}/assets/images/Projects/project1-topgenes.png)<br><small>*Figure 2: Top 20 genes based on p-value*</small> |
+| ![PCA Plot]({{ site.baseurl }}/assets/images/Projects/hero-project1.png)<br><small>*Figure 2: PCA plot Tumor vs Normal*</small> |
+| ![Top Genes]({{ site.baseurl }}/assets/images/Projects/project1-topgenes.png)<br><small>*Figure 3: Top 20 genes based on p-value*</small> |
 
 
 ## How to run
