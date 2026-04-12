@@ -20,9 +20,8 @@ toc: true
 toc_sticky: true
 ---
 
-## At a glance
+## Overview
 
-### Overview
 This notebook demonstrates an end-to-end gene expression analysis workflow starting from a raw GEO Series Matrix file. The focus is on a core real-world bioinformatics skill: turning “messy” public repository files into analysis-ready matrices and metadata, then performing basic differential expression and exploratory analysis.
 
 Although the dataset is public and compact, the same workflow scales to large transcriptomics studies and is directly applicable in oncology pipelines.
@@ -42,10 +41,12 @@ This project demonstrates a reproducible end-to-end gene expression analysis wor
   - columns = samples
 - Extracting phenotype labels (Tumor vs Normal) from sample characteristics
 
-## Results (put 1–2 key figures)
+## Results
 ![Volcano Plot]({{ site.baseurl }}/assets/images/Projects/project1-volcano.png)
+*Figure 1: Volcano plot Tumor vs Normal*
 
 ![Top Genes]({{ site.baseurl }}/assets/images/Projects/project1-topgenes.png)
+*Figure 2: Top 20 genes based on p-value*
 
 ## How to run
 git clone https://github.com/Anwesha19-prog/Breast-Cancer-Microarray-Analysis <br>
