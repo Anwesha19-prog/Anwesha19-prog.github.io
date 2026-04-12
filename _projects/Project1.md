@@ -2,7 +2,6 @@
 title: "Breast cancer microarray analysis"
 excerpt: "Bioinformatics project demonstrating transcriptomics data wrangling + analysis."
 date: 2026-04-10
----
 
 # Shows a big banner image at the top (hero)
 header:
