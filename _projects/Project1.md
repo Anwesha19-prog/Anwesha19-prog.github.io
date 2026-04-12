@@ -5,12 +5,12 @@ date: 2026-04-10
 
 # Shows a big banner image at the top (hero)
 header:
-  overlay_image: /assets/images/Projects/hero-project1.png
+  overlay_image: /assets/images/Projects/project1-hero.png
   overlay_filter: 0.35
   caption: "Figure: PCA for sample clustering."
 
 # Shows a small thumbnail on the /projects/ grid page
-teaser: /assets/images/Projects/hero-project1.png
+teaser: /assets/images/Projects/project1-hero.png
 
 # Optional: nice wide layout for projects with images
 classes: wide
