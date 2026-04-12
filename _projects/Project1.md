@@ -26,7 +26,7 @@ This notebook demonstrates an end-to-end gene expression analysis workflow start
 
 Although the dataset is public and compact, the same workflow scales to large transcriptomics studies and is directly applicable in oncology pipelines.
 
-- Links: [GitHub](https://github.com/Anwesha19-prog/Breast-Cancer-Microarray-Analysis).
+- Links: [GitHub](https://github.com/Anwesha19-prog/Breast-Cancer-Microarray-Analysis)
 - Status: Complete
 
 ## Why this project
@@ -43,6 +43,7 @@ This project demonstrates a reproducible end-to-end gene expression analysis wor
 
 ## Results
 ![Volcano Plot]({{ site.baseurl }}/assets/images/Projects/project1-volcano.png)
+<br>
 *Figure 1: Volcano plot Tumor vs Normal*
 
 ![Top Genes]({{ site.baseurl }}/assets/images/Projects/project1-topgenes.png)
