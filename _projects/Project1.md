@@ -1,17 +1,17 @@
 ---
-title: "Immune Risk Model"
-excerpt: "A survival prediction model combining clinical + multi-omics signals."
+title: "Breast cancer microarray analysis"
+excerpt: "Bioinformatics project demonstrating transcriptomics data wrangling + analysis."
 date: 2026-04-10
 ---
 
 # Shows a big banner image at the top (hero)
 header:
-  overlay_image: /assets/images/projects/immune-risk-model/hero.jpg
+  overlay_image: /assets/images/hero-project1.png
   overlay_filter: 0.35
-  caption: "Figure: Model overview and validation."
+  caption: "Figure: PCA for sample clustering."
 
 # Shows a small thumbnail on the /projects/ grid page
-teaser: /assets/images/projects/immune-risk-model/teaser.jpg
+teaser: /assets/images/hero-project1.png
 
 # Optional: nice wide layout for projects with images
 classes: wide
@@ -28,7 +28,7 @@ toc_sticky: true
 | My role | End-to-end: data curation, modeling, validation, writing |
 | Tech | Python, scikit-learn, lifelines, SHAP, pandas |
 | Status | Completed |
-| Links | [GitHub](https://github.com/YOURUSER/YOURREPO) · [Paper/Preprint](https://example.com) · [Demo](https://example.com) |
+| Links | [GitHub](https://github.com/Anwesha19-prog/Breast-Cancer-Microarray-Analysis) · [Paper/Preprint](https://example.com) · [Demo](https://example.com) |
 
 ## Why this project
 Clinicians need interpretable risk estimates. This project explores a model that is both **predictive** and **explainable**, with clear validation strategy.
@@ -46,7 +46,7 @@ Clinicians need interpretable risk estimates. This project explores a model that
 
 ## How to run
 ```bash
-git clone https://github.com/YOURUSER/YOURREPO
-cd YOURREPO
-pip install -r requirements.txt
-python train.py --config configs/default.yml
+git clone https://github.com/Anwesha19-prog/Breast-Cancer-Microarray-Analysis
+cd Breast-Cancer-Microarray-Analysis
+pip install pandas numpy scipy matplotlib seaborn scikit-learn
+jupyter notebook Project-1_clean.ipynb
