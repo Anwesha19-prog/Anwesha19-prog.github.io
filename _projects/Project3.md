@@ -3,7 +3,7 @@ title: "Multi omics integration (TCGA-BRCA)"
 excerpt: "Project integrating TCGA-BRCA multi-omics profiles—gene expression (RNA-seq), DNA methylation (450K), and copy-number variation (CNV)."
 author_profile: true
 
-date: 2026-04-10
+date: 2026-04-11
 
 # Shows a big banner image at the top (hero)
 header:
@@ -36,6 +36,7 @@ This repository contains a single, end-to-end Python notebook that integrates Th
 - Dimensionality reduction (PCA) and integration (early integration of PCs)
 - Unsupervised clustering with model selection (silhouette)
 - Biological interpretation via:
+
     - canonical marker genes,
     - CNV driver loci inspection,
     - pathway enrichment (Hallmark)
@@ -44,3 +45,8 @@ This repository contains a single, end-to-end Python notebook that integrates Th
 ## Result
 
 ## How to run
+
+git clone https://github.com/Anwesha19-prog/TCGA-BRCA-Multi-Omics-Intergration <br>
+cd TCGA-BRCA-Multi-Omics-Intergration <br>
+python -m requirements.txt <br>
+jupyter notebook Project-2_clean.ipynb
