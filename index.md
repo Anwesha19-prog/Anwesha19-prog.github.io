@@ -9,7 +9,7 @@ author_profile: true
 Computational biology + translational oncology — building reproducible analyses and predictive models from clinical and multi-omics data.
 
 [View Projects]({{ site.baseurl }}/projects/){: .btn .btn--primary }
-[Download CV]({{ site.baseurl }}/assets/cv/CV.pdf){: .btn .btn--info }
+[Download CV]({{ site.baseurl }}/assets/cv/Anwesha_CV.pdf){: .btn .btn--info }
 
 ---
 
