@@ -21,27 +21,31 @@ toc_sticky: true
 ---
 
 ## At a glance
-| Item | Details |
-|---|---|
-| What it does | Predicts overall survival risk from clinic + RNA-seq features |
-| My role | End-to-end: data curation, modeling, validation, writing |
-| Tech | Python, scikit-learn, lifelines, SHAP, pandas |
-| Status | Completed |
-| Links | [GitHub](https://github.com/Anwesha19-prog/Breast-Cancer-Microarray-Analysis) · [Paper/Preprint](https://example.com) · [Demo](https://example.com) |
+
+### Overview
+This notebook demonstrates an end-to-end gene expression analysis workflow starting from a raw GEO Series Matrix file. The focus is on a core real-world bioinformatics skill: turning “messy” public repository files into analysis-ready matrices and metadata, then performing basic differential expression and exploratory analysis.
+
+Although the dataset is public and compact, the same workflow scales to large transcriptomics studies and is directly applicable in oncology pipelines.
+
+- Links: [GitHub](https://github.com/Anwesha19-prog/Breast-Cancer-Microarray-Analysis).
+- Status: Complete
 
 ## Why this project
-Clinicians need interpretable risk estimates. This project explores a model that is both **predictive** and **explainable**, with clear validation strategy.
+This project demonstrates a reproducible end-to-end gene expression analysis workflow turning chaotic public repository data into analysis-ready matrices and metadata.
 
 ## Highlights
-- Robust preprocessing pipeline (missingness, normalization, leakage checks)
-- Nested CV + external validation cohort
-- Interpretability with SHAP + feature stability
-- Reproducible training with fixed seeds and configs
+- Parsing GEO Series Matrix structure:
+  - detecting !series_matrix_table_begin / !series_matrix_table_end
+  - separating metadata lines from expression table
+- Building a clean expression matrix:
+  - rows = genes
+  - columns = samples
+- Extracting phenotype labels (Tumor vs Normal) from sample characteristics
 
 ## Results (put 1–2 key figures)
-![ROC / calibration plot]({{ site.baseurl }}/assets/images/projects/immune-risk-model/result1.png)
+![Volcano Plot]({{ site.baseurl }}/assets/images/Projects/project1-volcano.png)
 
-![Kaplan–Meier stratification]({{ site.baseurl }}/assets/images/projects/immune-risk-model/result2.png)
+![Top Genes]({{ site.baseurl }}/assets/images/Projects/project1-topgenes.png)
 
 ## How to run
 git clone https://github.com/Anwesha19-prog/Breast-Cancer-Microarray-Analysis <br>
