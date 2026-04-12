@@ -48,6 +48,7 @@ This project asks which human genes change expression in SARS‑CoV‑2 positive
   - Heatmap / clustermap of top DE genes (pattern-level interpretation)
 
 ## Result
+
 |Figure|
 |---|
 |![Volcano Plot]({{ site.baseurl }}/assets/images/Projects/project2-volcano.png)<br><small>*Figure 1: Volcano plot Tumor vs Normal*</small>|
