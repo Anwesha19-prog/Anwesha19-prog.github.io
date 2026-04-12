@@ -6,12 +6,12 @@ date: 2026-04-10
 
 # Shows a big banner image at the top (hero)
 header:
-  overlay_image: /assets/images/hero-project1.png
+  overlay_image: /assets/images/Projects/hero-project1.png
   overlay_filter: 0.35
   caption: "Figure: PCA for sample clustering."
 
 # Shows a small thumbnail on the /projects/ grid page
-teaser: /assets/images/hero-project1.png
+teaser: /assets/images/Projects/hero-project1.png
 
 # Optional: nice wide layout for projects with images
 classes: wide
@@ -45,8 +45,7 @@ Clinicians need interpretable risk estimates. This project explores a model that
 ![Kaplan–Meier stratification]({{ site.baseurl }}/assets/images/projects/immune-risk-model/result2.png)
 
 ## How to run
-```bash
-git clone https://github.com/Anwesha19-prog/Breast-Cancer-Microarray-Analysis
-cd Breast-Cancer-Microarray-Analysis
-pip install pandas numpy scipy matplotlib seaborn scikit-learn
+git clone https://github.com/Anwesha19-prog/Breast-Cancer-Microarray-Analysis <br>
+cd Breast-Cancer-Microarray-Analysis <br>
+pip install pandas numpy scipy matplotlib seaborn scikit-learn<br>
 jupyter notebook Project-1_clean.ipynb
