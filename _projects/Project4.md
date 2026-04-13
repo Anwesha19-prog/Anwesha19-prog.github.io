@@ -3,7 +3,7 @@ title: "3D-Spheroid-Image-Segmentation-Uptake-Analysis"
 excerpt: "Project developed to identify spheroids from microscopic Images and analyze ICG uptake"
 author_profile: true
 
-date: 2026-04-12
+date: 2023-10-10
 
 # Shows a big banner image at the top (hero)
 header:
@@ -25,6 +25,9 @@ toc_sticky: true
 ## Overview
 
 Quantitative analysis of 3D spheroid/organoid microscopy images to measure morphology and fluorescence/intensity statistics in user-defined offset regions (e.g., shells/rings around a spheroid). Designed for both biologists (easy-to-run workflow, clear outputs) and image-analysis users (tunable segmentation parameters).
+
+- Links: [Github](https://github.com/Anwesha19-prog/3D-Spheroid-Organoid_Analysis_Image_Analysis)
+- Status: Complete
 
 ## Why this project
 
