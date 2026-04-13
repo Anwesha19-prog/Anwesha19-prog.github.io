@@ -7,7 +7,7 @@ date: 2026-04-12
 
 # Shows a big banner image at the top (hero)
 header:
-  overlay_image: /assets/images/project4-hero.jpg
+  overlay_image: /assets/images/Projects/project4-hero.jpg
   overlay_filter: 0.35
   caption: "[Source](https://idea-bio.com/how-to-efficiently-conduct-3d-spheroid-imaging/)"
 
