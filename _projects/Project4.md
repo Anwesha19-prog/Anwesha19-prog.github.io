@@ -38,8 +38,7 @@ Given a single-channel .tif image containing a spheroid/organoid, the pipeline:
 - Optionally fills holes / removes small noise components
 - Computes intensity metrics within the ROI and within regions defined by an offset length
 
-![Image analysis pipeline]({{ site.baseurl }}/assets/images/Projects/project4_result.png)<br><small>*Figure 1: CNV of key genes by cluster*</small>
-*Figure 1: Sample image analysis pipeline*
+![Image analysis pipeline]({{ site.baseurl }}/assets/images/Projects/project4_result.png)<br><small>*Figure 1: Sample image analysis pipeline*</small>
 
 ## Result
 
