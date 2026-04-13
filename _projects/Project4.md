@@ -7,12 +7,12 @@ date: 2026-04-12
 
 # Shows a big banner image at the top (hero)
 header:
-  overlay_image: /assets/images/hero-photo.jpg
+  overlay_image: /assets/images/project4-hero.jpg
   overlay_filter: 0.35
-  caption: "[Source](https://www.nium.bio/bioinformatics-unlocking-the-secrets-of-gut-health/)"
+  caption: "[Source](https://idea-bio.com/how-to-efficiently-conduct-3d-spheroid-imaging/)"
 
 # Shows a small thumbnail on the /projects/ grid page
-teaser: /assets/images/Projects/project3-marker_expression_by_cluster.png
+teaser: /assets/images/project4-hero.jpg
 
 # Optional: nice wide layout for projects with images
 classes: wide
