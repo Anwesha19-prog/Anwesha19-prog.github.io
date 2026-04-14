@@ -11,6 +11,6 @@ author_profile: true
 
 3. Sarkar, A. An investigation into the cellular uptake of indocyanine green in colorectal cancer. University College Dublin. School of Medicine. (2024) [Link](http://hdl.handle.net/10197/30002)
 
-# Presentations
+[//]: # (Presentations)
 
-1. Sir Peters Symposium 2022, Sarkar A.
+[//]: # (1. Sir Peters Symposium 2022, Sarkar A.)
